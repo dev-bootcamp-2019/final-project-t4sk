@@ -72,6 +72,7 @@ Subscription Creator
 #### How to Set up a Bounty
 Subscription Creator
 - Creates a bounty, listing his subscription contract address and a bounty amount rewarded to the payment processor.
+After creating a bounty, he approves the contract managing the bounties to transfer tokens upon a successful payment.
 
 <img src="img/create-bounty.png" alt="drawing" height="250"/>
 
