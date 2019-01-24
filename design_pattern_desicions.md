@@ -20,7 +20,7 @@ the owner's token balance is deducted without his approval.
 Mortal
 ======
 `TokenSubscription` can be deleted, this is useful when creating a new
-subscription contract and making sure that subscribers are not double-charged.
+subscription contract and making sure that subscribers are not double-charged (from old and new contracts).
 
 Pull over Push Payments
 =======================
