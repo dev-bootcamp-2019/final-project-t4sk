@@ -69,7 +69,7 @@ Subscription Creator
 
 <img src="img/charge.png" alt="drawing" height="250"/>
 
-#### How to Setting up a Bounty
+#### How to Set up a Bounty
 Subscription Creator
 - Creates a bounty, listing his subscription contract address and a bounty amount rewarded to the payment processor.
 
