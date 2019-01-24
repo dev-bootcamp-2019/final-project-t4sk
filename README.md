@@ -4,14 +4,14 @@ Demonetize is a decentralized application for managing recurring payments of ERC
 ### User Stories
 
 ##### Subscription Creator
-An subscription creator creates a contract for recurring payment of a ERC20 token. He then shares this newly created contract address with his potential subscribers. After users have subscribed to this contract, the subscription creator can periodically charge the them.
+An subscription creator creates a contract for recurring payment of a ERC20 token. He then shares this newly created contract address with his potential subscribers. After users have subscribed to this contract, the subscription creator can periodically charge them.
 
 ##### Subscriber
 An user subscribes to a subscription contract. Next he approves the subscription contract to spend ERC20 token from his account. The subscription contract will only allow tokens to transfer periodically. Payments will be rejected if
 the user disapproves this contract to transfer tokens or if the user unsubscribes from this contract.
 
 ##### Payment Processor
-As a subscription creator, it can be time consuming to manually charge every subscribers. Therefore he has an option to register his contract for anyone to process his payments on his behalf. In exchange the payment processor receives a fee for his service.
+As a subscription creator, it can be time consuming to manually charge every subscriber. Therefore he has an option to register his contract for anyone to process his payments on his behalf. In exchange the payment processor receives a fee for his service.
 
 ## Development
 
