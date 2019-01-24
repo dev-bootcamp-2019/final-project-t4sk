@@ -1,0 +1,16 @@
+Network: Ropsten
+https://ropsten.etherscan.io/
+
+ Deploying 'Migrations'
+ > contract address:    0x08Ff67Ac1cd27BafDDAd76482C11E4780f24C5C2
+ https://ropsten.etherscan.io/address/0x08ff67ac1cd27bafddad76482c11e4780f24c5c2#code
+
+ Deploying 'PaymentBounty'
+ -------------------------
+ > contract address:    0x9aE2371DF94Ab9F567e1906cd79713b1450E5F79
+ https://ropsten.etherscan.io/address/0x9ae2371df94ab9f567e1906cd79713b1450e5f79#code
+
+ Deploying 'TestToken'
+ ---------------------
+ > contract address:    0x2198C7dA0016848FAb64718BeCcAeC8325bFcFaC
+ https://ropsten.etherscan.io/address/0x2198C7dA0016848FAb64718BeCcAeC8325bFcFaC#code
